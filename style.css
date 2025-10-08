@@ -8,7 +8,7 @@
   --cream:        hsl(30 38% 92%);    /* page bg */
   --white:        hsl(0 0% 100%);     /* surfaces */
   --green-500:    hsl(158 36% 37%);   /* primary */
-  --green-700:    hsl(158 36% 24%);   /* hover/pressed */
+  --green-700:    hsl(158, 42%, 18%);   /* hover/pressed */
 
   /* Typography scale (Fraunces 700 for headings, Montserrat 500/700 for body/controls) */
   --fs-100: clamp(0.875rem, 0.75rem + 0.6vw, 1rem);      /* small */
