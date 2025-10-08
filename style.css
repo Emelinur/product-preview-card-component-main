@@ -138,10 +138,10 @@ figure{
 }
 
 /* Mobile */
-@media (max-width: 700px){
+@media (max-width: 43.75rem){
   .card{
     grid-template-columns: 1fr;
-    max-width: 375px;
+    max-width: 23.4375rem;
   }
   .card__media img{
     aspect-ratio: 4 / 3; /* mobile oran */
